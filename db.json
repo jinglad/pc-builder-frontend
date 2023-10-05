@@ -1,0 +1,385 @@
+{
+  "products":[
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-500x500.jpg",
+      "name":"Intel 10th Gen Core i3 10100F Processor",
+      "price":8200,
+      "description":"This processor comes with a new breed that come without an integrated GPU, so a separate graphics card is required for its functionality. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup",
+      "category":"CPU / Processor",
+      "status":"In Stock",
+      "keyfeature":"Socket Supported FCLGA1200, Speed 3.60 up to 4.30 GHz, Cores- 4 & Threads- 8",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-500x500.jpg",
+      "name":"AMD Ryzen 3 4100 Processor",
+      "price":10300,
+      "description":"AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD Zen 2 Core Architecture, and AMD Ryzen VR-Ready Premium.",
+      "category":"CPU / Processor",
+      "status":"In Stock",
+      "keyfeature":"Clock Speed: 3.8GHz; Up to 4.0GHz, L1 Cache: 256KB; L2 Cache: 2MB; L3 Cache: 4MB, Cores- 4 & Threads- 8",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100f/i3-12100f-500x500.jpg",
+      "name":"Intel 11th Gen Core i3 12100F Processor",
+      "price":10500,
+      "description":"Intel 11th Gen Core i3 12100F Processor comes with a new breed that come without an integrated GPU, so a separate graphics card is required for its functionality. This new 11th gen Rocket Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 400-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 400-series lineup.",
+      "category":"CPU / Processor",
+      "status":"Out of stock",
+      "keyfeature":"Socket Supported FCLGA1200, Speed 3.10 up to 4.60 GHz, Cores- 4 & Threads- 8",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/motherboard/arktek/ak-h81m-el/ak-h81m-el-01-500x500.webp",
+      "name":"ARKTEK AK-H81M-EL Motherboard",
+      "price":4500,
+      "description":"The ARKTEK AK-H81M EL 4th Gen Micro-ATX Motherboard is designed to support Intel Core i7, i5, i3, Pentium, and Celeron processors of the LGA1150 Intel 4th generation multi-core processors. It utilizes the Intel H81 chipset and features integrated graphics processing. The motherboard supports dual-channel DDR3 memory and has two slots with a maximum capacity of 8GB per slot",
+      "category":"Motherboard",
+      "status":"In Stock",
+      "keyfeature":"Chipset: Intel H81, Supported Processor: Intel Core i7, i5, i3, Pentium, and Celeron processors of the LGA1150 Intel 4th generation multi-core processors, Memory: 2 x DDR3 DIMM sockets supporting up to 8 GB of system memory, Dual channel memory architecture, Support for DDR3 1600/1333 MHz memory modules, Support for non-ECC memory modules, Support for Extreme Memory Profile (XMP) memory modules",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE%20GA-J1800M-D3P/GIGABYTE%20GA-J1800M-D3P-1-500x500.jpg",
+      "name":"Gigabyte GA-J1800M-D3P Motherboard",
+      "price":5500,
+      "description":"Built-in IntelÂ® Celeronâ„¢ J1800 (2.41 GHz) Dual-Core processor. GIGABYTE Ultra Durableâ„¢ Technology. Dual channel DDR3/-L UDIMM slot support. Audio Noise Guard with High Quality Audio Capacitors. All Solid Capacitors with Humidity Protection New Glass Fabric PCB design",
+      "category":"Motherboard",
+      "status":"In Stock",
+      "keyfeature":"Chipset: Intel H81, Supported Processor: Intel Core i7, i5, i3, Pentium, and Celeron processors of the LGA1150 Intel 4th generation multi-core processors, Memory: 2 x DDR3 DIMM sockets supporting up to 8 GB of system memory, Dual channel memory architecture, Support for DDR3 1600/1333 MHz memory modules, Support for non-ECC memory modules, Support for Extreme Memory Profile (XMP) memory modules",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-500x500.jpg",
+      "name": "ASRock H81M-VG4 R4.0 Motherboard",
+      "price": 4500,
+      "description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity.",
+      "category": "Motherboard",
+      "status": "Out of stock",
+      "keyfeature": "Chipset: Intel H81, Supported Processor: Intel Core i7, i5, i3, Pentium, and Celeron processors of the LGA1150 Intel 4th generation multi-core processors, Memory: 2 x DDR3 DIMM sockets supporting up to 8 GB of system memory, Dual channel memory architecture, Support for DDR3 1600/1333 MHz memory modules, Support for non-ECC memory modules, Support for Extreme Memory Profile (XMP) memory modules",
+      "individiualRating": 5,
+      "avgRating": 4.5,
+      "reviews": [
+        {
+          "name": "John Doe",
+          "review": "Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/ram/colorful/8gb-ddr4-2666mhz/8gb-ddr4-2666mhz-01-500x500.webp",
+      "name":"Colorful 8GB DDR4 2666MHz RAM",
+      "price":3500,
+      "description":"Colorful 8GB DDR4 2666MHz RAM comes with 8GB Capacity, DDR4 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8, 1Rx8, 8GB Capacity, 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8",
+      "category":"RAM",
+      "status":"In Stock",
+      "keyfeature":"8GB Capacity, DDR4 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/ram/colorful/cvn-guardian/cvn-guardian-ddr4-01-500x500.webp",
+      "name":"Colorful CVN Guardian DDR4 8GB 2666MHz RAM",
+      "price":3500,
+      "description":"Colorful CVN Guardian DDR4 8GB 2666MHz RAM comes with 8GB Capacity, DDR4 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8, 1Rx8, 8GB Capacity, 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8",
+      "category":"RAM",
+      "status":"In Stock",
+      "keyfeature":"8GB Capacity, DDR4 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/ram/colorful/battle-ax/battle-ax-01-500x500.webp",
+      "name":"Colorful Battle-Ax DDR4 8GB 2666MHz RAM",
+      "price":3500,
+      "description":"Colorful Battle-Ax DDR4 8GB 2666MHz RAM comes with 8GB Capacity, DDR4 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8, 1Rx8, 8GB Capacity, 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8",
+      "category":"RAM",
+      "status":"Out of stock",
+      "keyfeature":"8GB Capacity, DDR4 2666MHz Bus Speed, 288 Pin DIMM, 1.2V Voltage, Non-ECC, Unbuffered, 1 Rank, 16 Chips, 1024Mx8",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/aura-gp550/aura-gp550-01-500x500.webp",
+      "name":"Gamdias AURA GP550 550W 80+ Bronze Power Supply",
+      "price":4500,
+      "description":"Gamdias AURA GP550 550W 80+ Bronze Power Supply comes with 550W Power, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy",
+      "category":"Power Supply Unit",
+      "status":"In Stock",
+      "keyfeature":"550W Power, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/power-supply/antec/meta-v550/meta-v550-01-500x500.webp",
+      "name":"Antec META V550 550W 80+ Bronze Power Supply",
+      "price":4500,
+      "description":"Antec META V550 550W 80+ Bronze Power Supply comes with 550W Power, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy",
+      "category":"Power Supply Unit",
+      "status":"In Stock",
+      "keyfeature":"550W Power, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/power-supply/gigabyte/p450b/p450b-500x500.jpg",
+      "name":"Gigabyte P450B 450W 80+ Bronze Power Supply",
+      "price":4500,
+      "description":"Gigabyte P450B 450W 80+ Bronze Power Supply comes with 450W Power, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy",
+      "category":"Power Supply Unit",
+      "status":"Out of stock",
+      "keyfeature":"450W Power, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy, 80+ Bronze Certified, 120mm Fan, 1 x 20+4 Pin, 1 x 4+4 Pin, 2 x 6+2 Pin, 6 x SATA, 3 x Molex, 1 x Floppy",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300-1tb/p300-1tb-1-500x500.jpg",
+      "name":"Toshiba P300 1TB 7200RPM 3.5\" SATA Desktop HDD",
+      "price":6500,
+      "description":"Toshiba P300 1TB 7200RPM 3.5\" SATA Desktop HDD comes with 1TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor, 1TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor",
+      "category":"Storage Device",
+      "status":"In Stock",
+      "keyfeature":"1TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor, 1TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/hdd/seagate/2tb-7200rpm/2tb-7200rpm-1-500x500.jpg",
+      "name":"Seagate 2TB 7200RPM 3.5\" SATA Desktop HDD",
+      "price":5500,
+      "description":"Seagate 2TB 7200RPM 3.5\" SATA Desktop HDD comes with 2TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor, 2TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor",
+      "category":"Storage Device",
+      "status":"In Stock",
+      "keyfeature":"2TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor, 2TB Capacity, 7200RPM, 64MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/component/hdd/toshiba/s300-4tb/s300-03-500x500.jpg",
+      "name":"Toshiba S300 4TB 7200RPM 3.5\" SATA Surveillance HDD",
+      "price":8500,
+      "description":"Toshiba S300 4TB 7200RPM 3.5\" SATA Surveillance HDD comes with 4TB Capacity, 7200RPM, 128MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor, 4TB Capacity, 7200RPM, 128MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor",
+      "category":"Storage Device",
+      "status":"Out of stock",
+      "keyfeature":"4TB Capacity, 7200RPM, 128MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor, 4TB Capacity, 7200RPM, 128MB Cache, SATA 6.0Gb/s, 3.5\" Form Factor",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/rmmnt215nf/rmmnt215nf-01-500x500.jpg",
+      "name":"Xiaomi Mi 21.5\" FHD IPS Monitor",
+      "price":8500,
+      "description":"Xiaomi Mi 21.5\" FHD IPS Monitor comes with 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 60Hz Refresh Rate, 6ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA, 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 60Hz Refresh Rate, 6ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA",
+      "category":"Monitor",
+      "status":"In Stock",
+      "keyfeature":"21.5\" FHD IPS Display, 1920 x 1080 Resolution, 60Hz Refresh Rate, 6ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA, 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 60Hz Refresh Rate, 6ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        },
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk430h-b/22mk430h-b-500x500.jpg",
+      "name":"LG 22MK430H-B 21.5\" FHD IPS Monitor",
+      "price":8500,
+      "description":"LG 22MK430H-B 21.5\" FHD IPS Monitor comes with 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA, 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA",
+      "category":"Monitor",
+      "status":"In Stock",
+      "keyfeature":"21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA, 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        },
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk600m/lg-22mk600m-1-500x500.jpg",
+      "name":"LG 22MK600M 21.5\" FHD IPS Monitor",
+      "price":8500,
+      "description":"LG 22MK600M 21.5\" FHD IPS Monitor comes with 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA, 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA",
+      "category":"Monitor",
+      "status":"Out of stock",
+      "keyfeature":"21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA, 21.5\" FHD IPS Display, 1920 x 1080 Resolution, 75Hz Refresh Rate, 5ms Response Time, 250 cd/mÂ² Brightness, 178Â°/178Â° Viewing Angles, 1000:1 Contrast Ratio, 16.7 Million Colors, 1 x HDMI 1.4, 1 x VGA",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        },
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/graphics-card/gigabyte/geforce-rtx-4060-eagle-oc-8g/geforce-rtx-4060-eagle-oc-8g-01-500x500.webp",
+      "name":"Gigabyte GeForce RTX 4060 Eagle OC 8G Graphics Card",
+      "price":49000,
+      "description":"Gigabyte GeForce RTX 4060 Eagle OC 8G Graphics Card comes with 8GB GDDR6 Memory, 256-bit Memory Bus, 7680x4320 Max Resolution, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, 1 x USB Type-C, 1 x 8-pin Power Connector, 1 x 6-pin Power Connector, 8GB GDDR6 Memory, 256-bit Memory Bus, 7680x4320 Max Resolution, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, 1 x USB Type-C, 1 x 8-pin Power Connector, 1 x 6-pin Power Connector",
+      "category":"Others",
+      "status":"In Stock",
+      "keyfeature":"8GB GDDR6 Memory, 256-bit Memory Bus, 7680x4320 Max Resolution, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, 1 x USB Type-C, 1 x 8-pin Power Connector, 1 x 6-pin Power Connector, 8GB GDDR6 Memory, 256-bit Memory Bus, 7680x4320 Max Resolution, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, 1 x USB Type-C, 1 x 8-pin Power Connector, 1 x 6-pin Power Connector",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        },
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/mouse/fantech/vx7-crypto/vx7-crypto-010-500x500.jpg",
+      "name":"Fantech VX7 Crypto RGB Gaming Mouse",
+      "price":950,
+      "description":"Fantech VX7 Crypto RGB Gaming Mouse comes with 7 Programmable Buttons, 4800 DPI, 1000Hz Polling Rate, 20G Acceleration, 7 Programmable Buttons, 4800 DPI, 1000Hz Polling Rate, 20G Acceleration",
+      "category":"Others",
+      "status":"In Stock",
+      "keyfeature":"7 Programmable Buttons, 4800 DPI, 1000Hz Polling Rate, 20G Acceleration, 7 Programmable Buttons, 4800 DPI, 1000Hz Polling Rate, 20G Acceleration",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        },
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    },
+    {
+      "image":"https://www.startech.com.bd/image/cache/catalog/keyboard/keychron/c1-mechanical/c1-mechanical-01-500x500.jpg",
+      "name":"Keychron C1 Mechanical Keyboard",
+      "price":7000,
+      "description":"Keychron C1 Mechanical Keyboard comes with 87 Keys, Gateron Red Switches, 15+ RGB Backlight, 4000mAh Battery, 87 Keys, Gateron Red Switches, 15+ RGB Backlight, 4000mAh Battery",
+      "category":"Others",
+      "status":"In Stock",
+      "keyfeature":"87 Keys, Gateron Red Switches, 15+ RGB Backlight, 4000mAh Battery, 87 Keys, Gateron Red Switches, 15+ RGB Backlight, 4000mAh Battery",
+      "individiualRating":5,
+      "avgRating":4.5,
+      "reviews":[
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        },
+        {
+          "name":"John Doe",
+          "review":"Good Product"
+        }
+      ]
+    }
+  ]
+}
