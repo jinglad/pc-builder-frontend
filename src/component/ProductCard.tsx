@@ -34,12 +34,18 @@ const ProductCard = ({
       // component={Link}
       // href={`/product/${product?._id}`}
     >
-      <Card.Section>
+      <Card.Section component={Link} href={`/product/${product?._id}`}>
         <Image src={product?.image} height={160} alt={product?.name} />
       </Card.Section>
 
       <Stack mt="md" mb="xs" gap={5}>
-        <Text fw={500} fz={14} m={0}>
+        <Text
+          fw={500}
+          fz={14}
+          m={0}
+          component={Link}
+          href={`/product/${product?._id}`}
+        >
           {product?.name}
         </Text>
         <Group justify="space-between" mb="lg">
